@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  background-color: rgb(237, 237, 237);
+  margin: 0%;
+}
+
+
+header {
+  background-color: rgb(199, 62, 119);
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+a {
+  color: #104a5c;
+}
+
+body {
+  margin: 2%;
+  background-color: rgb(237, 237, 237);
+  align-items: stretch;
+  text-transform: wrap;
+}
+
+
